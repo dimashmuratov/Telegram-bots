@@ -1,3 +1,10 @@
+//npm init -y
+//npm i telegraf@3.32
+//nodemon echobot.js
+//Telegram: @echo5000bot
+//Group: BotDebugGroup
+
+
 const Telegraf = require('telegraf');
 
 const bot = new Telegraf('1235736101:AAGyxnpRn023fzH8uQIXLFuxmBNsSCiJP1o');
