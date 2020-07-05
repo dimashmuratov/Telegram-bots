@@ -1,3 +1,9 @@
+//npm init -y
+//npm i telegraf axios
+//nodemon bot.js
+//Telegram: @simple_api_bot
+
+
 const Telegraf = require('telegraf');
 
 const bot = new Telegraf('919329485:AAHnDgQKUYNhEm2vstEi-gwTeRMI-2y4WRo');
