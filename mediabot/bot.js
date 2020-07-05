@@ -1,3 +1,9 @@
+//npm init -y
+//npm i telegraf@3.32
+//nodemon bot.js
+//Telegram: @media5000bot
+
+
 const Telegraf = require('telegraf');
 const bot = new Telegraf('1034839420:AAF8aTRMo2BlVOl5kgOrdyhdyAhVBFSSmU4');
 
